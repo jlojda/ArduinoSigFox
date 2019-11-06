@@ -20,7 +20,7 @@ using namespace std;
 
 #define RESPONSE_BUFFER_SIZE 512
 
-/*int main()
+int main()
 {
   SigFox::ErrorType::type e;
   char responseBuffer[RESPONSE_BUFFER_SIZE];
@@ -49,4 +49,4 @@ using namespace std;
   return 0;
 }
 
-*/
+
