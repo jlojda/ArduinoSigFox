@@ -3,7 +3,7 @@
   intended to be run on an Arduino - gets a temperature and sends it over SigFox
   Copyright (c) 2019 Jakub Lojda.  All right reserved.
 */
-/*
+
 // include libs
 #include <Arduino.h>
 #include <SoftwareSerial.h>
@@ -84,4 +84,3 @@ void loop() {
   return;
 }
 
-*/
